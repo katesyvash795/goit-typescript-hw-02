@@ -21,6 +21,3 @@ function compare<T extends AllType, U extends AllType>(top: Pick<T, keyof AllTyp
 }
 
 export {};
-
-
-export {};
